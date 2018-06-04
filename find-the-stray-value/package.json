@@ -1,0 +1,18 @@
+{
+  "name": "find-the-stray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findTheStray.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

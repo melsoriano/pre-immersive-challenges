@@ -1,0 +1,17 @@
+{
+  "name": "acceptable-sequence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acceptableSequence.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

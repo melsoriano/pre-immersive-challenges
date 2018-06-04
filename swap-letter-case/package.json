@@ -1,0 +1,14 @@
+{
+  "name": "swap-letter-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swapLetterCase.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

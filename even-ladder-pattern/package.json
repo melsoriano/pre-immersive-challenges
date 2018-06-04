@@ -1,0 +1,17 @@
+{
+  "name": "even-ladder-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "evenLadderPattern.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
