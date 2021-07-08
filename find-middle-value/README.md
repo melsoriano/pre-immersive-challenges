@@ -14,7 +14,7 @@ You are given an array containing three numbers. Return the **index** of the num
 Example:
 
 ```
-findMiddleValue([200, 300, 400]) // returns 0 -- 200 is the middle number between 300 and 400 and it's index is 0
+findMiddleValue([300, 200, 400]) // returns 0 -- 300 is the middle number between 200 and 400 and its index is 0
 
-findMiddleValue([15, 25, 55]) // returns 1 -- 25 is the middle number between 15 and 55  and it's index is 1
+findMiddleValue([15, 25, 55]) // returns 1 -- 25 is the middle number between 15 and 55  and its index is 1
 ```
